@@ -409,7 +409,7 @@ body .modal-backdrop.show {
 }
 
 .hover-effect-purple:hover {
-    background-color:#EDE9FE;
+    background-color: #EDE9FE;
     color: #1447E6;
 }
 
@@ -424,37 +424,37 @@ body .modal-backdrop.show {
 }
 
 .hover-effect-green:hover {
-    background-color:#D0FAE5;
+    background-color: #D0FAE5;
     color: #009966;
 }
 
 .bg-soft-pink {
-    background-color:#FFF1F2;
+    background-color: #FFF1F2;
     color: #EC003F;
 }
 
 .hover-effect-pink:hover {
-    background-color:#FFE4E6;
+    background-color: #FFE4E6;
     color: #FF2056;
 }
 
 .bg-soft-yellow {
-    background-color:#FFFBEB;
-        color: #FFB900;
+    background-color: #FFFBEB;
+    color: #FFB900;
 }
 
 .hover-effect-yellow:hover {
-    background-color:#FEF3C6;
-    color:#FFB900;
+    background-color: #FEF3C6;
+    color: #FFB900;
 }
 
-.hover-effect-edit:hover{
+.hover-effect-edit:hover {
     background-color: #f1ebff;
     color: #7c3aed;
 }
 
-.hover-effect-trash:hover{
-    background-color:#FFF1F2;
+.hover-effect-trash:hover {
+    background-color: #FFF1F2;
     color: #EC003F;
 }
 
@@ -470,10 +470,10 @@ body .modal-backdrop.show {
     font-size: 14px;
 }
 
-.bg-letter-orange{
-     background: linear-gradient(135deg, #fab114 0%, #FF8F00 50%, #FF7203 100%);
+.bg-letter-orange {
+    background: linear-gradient(135deg, #fab114 0%, #FF8F00 50%, #FF7203 100%);
 }
 
-.bg-letter-red{
-   background: linear-gradient(135deg, #FB194C 0%, #F10033 50%, #EB001F 100%);
+.bg-letter-red {
+    background: linear-gradient(135deg, #FB194C 0%, #F10033 50%, #EB001F 100%);
 }
